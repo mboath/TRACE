@@ -1,8 +1,8 @@
 # Trace
 
-[![](https://bb-embed.herokuapp.com/embed?v=BV1fW4y1q74t)](https://www.bilibili.com/video/BV1fW4y1q74t/?vd_source=36fd3a762ee5c7de675cfebd91112817)
+[![](https://bb-embed.herokuapp.com/embed?v=BV1fW4y1q74t#pic_center)](https://www.bilibili.com/video/BV1fW4y1q74t/?vd_source=36fd3a762ee5c7de675cfebd91112817)
 
-​                                                   演示视频（点击上方图片跳转）
+<center>演示视频（点击上方图片跳转）</center>
 
 ##### 游戏设计
 
