@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: RealWater
+  m_Shader: {fileID: -6465566751694194690, guid: e4edc2ec590347c4594037135541911b,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 1
+  m_CustomRenderQueue: -1
+  stringTagMap:
+    MotionVector: User
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_7165F6EA:
+        m_Texture: {fileID: 2800000, guid: d94ced864fd951f4c83d64a2ff05ee11, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_1A9DD26F: 100
+    - Vector1_1E0D28E9: 1
+    - Vector1_2F8FD6C2: 20
+    - Vector1_3027EFB6: 0.6
+    - Vector1_89C9468C: 1
+    - Vector1_DE5072DB: 1
+    - Vector1_FEE3A36D: 0.06
+    m_Colors:
+    - Color_452840B: {r: 0, g: 0.10484543, b: 0.5754717, a: 0}
+    - Color_5CBFBEC2: {r: 0.010471203, g: 1.9999998, b: 1.1413611, a: 1}
